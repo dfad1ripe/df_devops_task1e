@@ -1,0 +1,7 @@
+name             'Task1e'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures Task1e'
+long_description 'Installs/Configures Task1e'
+version          '0.1.0'
