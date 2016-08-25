@@ -38,7 +38,9 @@ Check questions:
 
    - reprovision already running machine.
 
-**A:** - vagrant up
+**A:** Commands are:
+
+   - vagrant up
 
    - vagrant destroy
 
@@ -62,19 +64,19 @@ Check questions:
 
 **Q:** How much time it takes to:
 
-    - bring machine up for the first time.
+   - bring machine up for the first time.
 
-    - Re-provision machine.
+   - Re-provision machine.
 
-    - destroy machine.
+   - destroy machine.
 
 **A:** On my laptop, for this project
 
-    - ~2 min (with existing base box)
+   - ~2 min (with existing base box)
 
-    - 20 sec
+   - 20 sec
 
-    - 7 sec
+   - 7 sec
 
 
 **Q:** Explain, Why above times differ?
